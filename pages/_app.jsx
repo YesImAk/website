@@ -44,7 +44,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Add Bot",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://discord.com/api/oauth2/authorize?client_id=935064885061091389&permissions=826839264577&scope=bot",
+      href: "https://discord.com/api/oauth2/authorize?client_id=935064885061091389&permissions=826839264577&scope=applications.commands%20bot",
     },
        {
       link: true,
