@@ -40,7 +40,7 @@ export default function Index() {
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
           <div className="col-span-4">
-            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Astra Bot" }} />
+            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Chill Beats" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
             <a href="https://shorturl.at/prY36" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
               <i className="fab fa-discord mr-2" />Invite
@@ -77,7 +77,7 @@ export default function Index() {
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/1116188178336985089/1117531395884056586/image.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to share your hand picked playlist with Chill Beats?</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to share your playlist with Chill Beats?</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1116188178336985089/1117531395884056586/image.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
