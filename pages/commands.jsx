@@ -95,10 +95,18 @@ export default function Commands() {
 
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-  <Link href={"https://shorturl.at/prY36"}>
+  <Link href={"https://shorturl.at/zKNX7"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Invite Chill Beats</a>
   </Link>
+
+  <div className="py-10"></div>
+  
+  <Link href={"https://shorturl.at/prY36"}>
+  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
+Invite Chill Beats Legacy</a>
+  </Link>
+
 </div>
 
       </div>
