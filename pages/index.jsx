@@ -10,27 +10,22 @@ export default function Index() {
       <img width="500" src="/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          Astra Bot
+          Chill Beats
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with Astra bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
+       Time to add best music bot to your Discord server. Yes Im talking about Chill Beats, The best music bot in the entire world. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://bit.ly/3PHDjyC"}>
+            <Link href={"https://shorturl.at/prY36"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Invite Astra
+          Invite Chill Beats
               </a>
             </Link>
-  <div className="py-10"></div>
-  <Link href={"https://bit.ly/3LYzaDe"}>
-  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Astra</a>
-  </Link>
         </div>
 
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
