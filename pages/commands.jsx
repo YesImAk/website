@@ -97,7 +97,7 @@ export default function Commands() {
   
   <Link href={"https://shorturl.at/prY36"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite Astra</a>
+Invite Chill Beats</a>
   </Link>
 </div>
 
