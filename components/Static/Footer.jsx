@@ -57,20 +57,6 @@ export default function Footer() {
                                     </a>
                                 </Link>
                             </div>
-                            <div>
-                                <Link href="https://github.com/1umutda/MusicBot">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-github`} /> GitHub 
-                                    </a>
-                                </Link>
-                            </div>
-                            <div>
-                                <Link href="https://youtube.com/UmutBayraktarYT">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-youtube`} /> YouTube 
-                                    </a>
-                                </Link>
-                            </div>
                         </div>
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
