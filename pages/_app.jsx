@@ -39,7 +39,7 @@ export default function AwardApp({ Component, pageProps }) {
     <div className="h-screen relative border-t-4 border-amber-600">
       <div
         className="bg-gradient-to-b z-10 opacity-[25%] absolute top-05 w-full from-amber-600 to-transparent"
-        style={{ height: "500px" }}
+        style={{ height: "900px" }}
       />
       <Head>
         <title>
