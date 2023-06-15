@@ -10,7 +10,7 @@ export default function Index() {
       <img width="500" src="/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          Chill Beats - A Discord Bot
+          Chill Beats
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        Time to add best music bot to your Discord server. Yes Im talking about Chill Beats, The best music bot in the entire world. 
