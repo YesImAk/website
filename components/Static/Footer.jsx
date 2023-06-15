@@ -6,8 +6,8 @@ export default function Footer() {
 
     return (
         <>
-            <footer className="w-1/2 mx-auto h-8 transparent bg-gray-600 bottom-0 items-center absolute inset-x-0">
-                <div className="flex justify-center w-100">
+            <footer className="py-10">
+                <div className="pt-10 mx-auto">
                     <div className="lg:grid lg:grid-cols-6 gap-20">
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
