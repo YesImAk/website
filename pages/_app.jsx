@@ -38,7 +38,7 @@ export default function AwardApp({ Component, pageProps }) {
     <ThemeProvider defaultTheme='violet'>
     <div className="h-screen relative border-t-4 border-amber-600">
       <div
-        className="bg-gradient-to-b z-10 opacity-[25%] absolute top-05 w-full from-amber-600 to-transparent"
+        className="bg-gradient-to-b z-10 opacity-[0%] absolute top-05 w-full from-amber-600 to-transparent"
         style={{ height: "900px" }}
       />
       <Head>
