@@ -10,7 +10,6 @@ export default function Commands() {
     "/clean",
     "/clear",
     "/filters",
-    "/guildleave",
     "/help",
     "/invite",
     "/loop",
