@@ -564,7 +564,7 @@
 	--900-80: rgba(6, 78, 59, .80);
 	--900-90: rgba(6, 78, 59, .90);
 }
-.bg-500 { background: var(--500); }
+.bg-500 { background: var(--1000); }
 .text-500-violet { color: rgba(139, 92, 246); }
 .text-500-blue { color: rgba(59, 130, 246); }
 .text-500-emerald { color: rgb(16, 185, 129); }
