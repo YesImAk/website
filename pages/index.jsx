@@ -1,6 +1,10 @@
 import Link from "next/link";
 import Image from "next/image";
 
+body {
+background-color: #DBF9FC;
+}
+
 export default function Index() {
 	
   return (
