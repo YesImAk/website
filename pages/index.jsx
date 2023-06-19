@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-	 <img width="500" src="https://i.imgur.com/0NVC52Y.png" />
+	 <img width="500" src="https://i.imgur.com/1PsdO7c.png" />
       </div>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        Time to add best music bot to your Discord server. Yes Im talking about Chill Beats, The best music bot in the entire world. 
