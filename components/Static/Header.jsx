@@ -75,9 +75,6 @@ const Header = ({ $, NavItems }) => {
                 <div className="max-w-7xl px-5 mx-auto py-5 flex items-center justify-between">
                     <div className="flex items-center space-x-6">
                         <div className="flex items-center space-x-3">
-                                className={`
-                                    rounded-full 
-                                `}
                             <p className="invisible md:visible text-xl text-white font-semibold">
                               <a href="/"><span className="text-amber-400">Chill</span> Beats</a>
                             </p>
