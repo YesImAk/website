@@ -78,8 +78,6 @@ const Header = ({ $, NavItems }) => {
                                 className={`
                                     rounded-full 
                                 `}
-                                width="48" height="48"
-                            />
                             <p className="invisible md:visible text-xl text-white font-semibold">
                               <a href="/"><span className="text-amber-400">Chill</span> Beats</a>
                             </p>
