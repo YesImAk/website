@@ -10,7 +10,7 @@ export default function Footer() {
                 <div className="pt-5 mx-auto">
                     <div className="lg:grid lg:grid-cols-6 gap-20">
                     </div>
-                    <div className="mt-2 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
+                    <div className="mt-2 grid content-center grid-cols-1 sm:grid-cols-3 md:grid-cols-1">
                         <p className="text-white text-center sm:text-left text-opacity-50">
                             {new Date().getFullYear()} &copy; Chill Beats
                         </p>
