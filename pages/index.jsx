@@ -9,7 +9,7 @@ export default function Index() {
         <div className="flex w-full justify-center">
 	 <img width="500" src="https://i.imgur.com/6EgAjw2.png" />
       </div>
-        <p className="animateHeader text-white text-opacity-50 text-center mt-5">
+        <p className="animateHeader text-white text-opacity-70 text-center mt-5">
        Time to add best music bot to your Discord server. Yes Im talking about Chill Beats, The best music bot in the entire world. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
