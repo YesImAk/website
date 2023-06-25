@@ -31,6 +31,15 @@ const MobileNavbar = ({ open, setOpen, NavItems }) => {
                         </div>
                     </a>
                 ))}
+                {NavItems.filter(a => !a.link).map((item, itemIndex) => (
+                    <li key={itemIndex}>
+                        <a target="_blank" href={item.href} >
+                            <div className={`border-b-2 ${router.asPath === item.href ? 'text-amber-500 border-amber-500' : 'border-black/0 text-white/75 hover:text-white'} transition-all duration-200 font-medium`}>
+                                {item.name}
+                            </div>
+                        </a>
+                    </li>
+                ))}
             </div>
         </div>
     </>
