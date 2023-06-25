@@ -16,7 +16,7 @@ export default function Commands() {
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of Chill Beats.
+        Commands of Chill Beats Legacy.
         </p>
 
         <div>
