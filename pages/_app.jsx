@@ -31,6 +31,13 @@ export default function AwardApp({ Component, pageProps }) {
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
       href: "/commands",
+    },
+       {
+      link: true,
+      name: "Login",
+      icon: "fa fa-list-alt",
+      activeIcon: "fa fa-list-alt",
+      href: "/commands",
     }
   ]
 
